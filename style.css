@@ -58,13 +58,13 @@ body {
 
 .user-box .btn:focus {
     box-shadow: none !important;
-    border: 0.3vh solid #fff;
+    border: 0.55vh solid #fff;
     background: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)),url(IMG/background.jpg);
-    background-position: right;
+    background-position: bottom;
 }
 
 .user-box .btn:hover {
-    border: 0.3vh solid #fff;
+    border: 0.55vh solid #fff;
     background: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)),url(IMG/background.jpg);
     background-position: bottom;
     transition: 4s;
@@ -86,7 +86,19 @@ body {
     transform: translateX(-50%);
     border: 0px solid #fff;
     padding: 2.5vh 1.5vh;
-    border-radius: 3vh;
+}
+
+.scroll-btn .btn {
+    border: 0vh solid #fff;
+    background: transparent;
+    font-size: 5vh;;
+}
+
+.scroll-btn .btn:hover  {
+    border: 0vh solid #fff;
+    background: transparent;
+    background-position: right;
+    color:cadetblue;
 }
 
 .scroll-bar a {
@@ -103,6 +115,9 @@ body {
     100%{transform: translateY(1vh);}
 }
 
+
+
+
 /*----about----*/
 
 .about {
@@ -115,7 +130,7 @@ body {
     margin-right: 0px;
     font-size: 30px;
     padding-top: 80px;
-    padding-bottom: 10px; 
+    padding-bottom: 10px;   
 }
 
 .about p {

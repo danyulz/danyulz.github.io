@@ -172,7 +172,7 @@ font-size: 2vh;
     padding-top: 50px;
     margin-bottom: 50px;
     margin-left: auto;
-    font-size: 2vh;
+    font-size: 30px;
 }
 
 .resume h5 {
@@ -211,8 +211,9 @@ font-size: 2vh;
 .timeline li {
     margin-top: 20px;
     margin-bottom: 20px;
-    margin-left: 20px;
-    background: #fff;
+    border-radius 100px;
+    background-color: #fff;
+    border-radius: 10px;
 }
 
 .timeline li h4{

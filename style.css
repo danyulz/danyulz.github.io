@@ -111,9 +111,7 @@ body {
     padding-bottom: 60px;
 }
 
-
 .about h3 {
-    margin-left: 4vw;
     margin-right: 0px;
     font-size: 30px;
     padding-top: 80px;
@@ -121,13 +119,12 @@ body {
 }
 
 .about p {
-    margin-left: 4vw;
     margin-right: 10px;
 }
 
 .profile-img
 {
-    height: 400px;
+    height: 33vw;
     border-radius: 40px;
     background: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)),url(IMG/background.jpg);
     background-position: center;

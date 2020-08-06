@@ -124,7 +124,7 @@ body {
 
 .profile-img
 {
-    height: 33vw;
+    height: 380px;
     border-radius: 40px;
     background: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)),url(IMG/background.jpg);
     background-position: center;

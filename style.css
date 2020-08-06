@@ -124,7 +124,7 @@ body {
 
 .profile-img
 {
-    height: 380px;
+    height: 300px;
     border-radius: 40px;
     background: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)),url(IMG/background.jpg);
     background-position: center;
@@ -154,7 +154,7 @@ font-size: 2vh;
 /*--------divider------*/
 
 .divider1 {
-    height: 5vh;
+    height: 10vh;
     background: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)),url(IMG/background.jpg);
     background-position: center;
     background-size: cover;

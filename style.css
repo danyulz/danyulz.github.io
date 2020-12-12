@@ -91,14 +91,18 @@ body {
 .scroll-btn .btn {
     border: 0vh solid #fff;
     background: transparent;
-    font-size: 5vh;;
+    font-size: 5vh;
 }
 
 .scroll-btn .btn:hover  {
     border: 0vh solid #fff;
     background: transparent;
-    background-position: right;
     color:cadetblue;
+}
+
+.scroll-btn .btn:focus {
+    border: 0vh solid #fff;
+    background: transparent;
 }
 
 .scroll-bar a {
